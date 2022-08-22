@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 "Hey there" i don't care
+=======
+"Hey there"
+see there is no changes in new branch
+>>>>>>> new_branch
